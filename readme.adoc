@@ -1,0 +1,170 @@
+= polskie podcasty IT
+
+|===
+|ostatnia aktywność |strona internetowa |opis lub nazwa |Atom/RSS |YouTube
+
+// miejsce na nowy wpis
+
+|2020
+|
+|Piątki Na Produkcji
+|
+|https://www.youtube.com/channel/UCkv21uaELm8MTdV1L7Qm9ww/videos
+
+|2020
+|https://biznesmysli.pl/
+|Sztuczna inteligencja w biznesie
+|https://biznesmysli.pl/feed/
+|
+
+|2020
+|https://devenv.pl/podcast/
+|Tworzenie oprogramowania w szerokim horyzoncie
+|https://devenv.pl/podcast/feed
+|
+
+|2020
+|https://devtalk.pl
+|"Programistyczny głos w Twoim domu"
+|https://devtalk.pl/feed
+|
+
+|2020
+|https://niebezpiecznik.pl/podcast/
+|Na Podsluchu — podcast redaktorów Niebezpiecznik.pl
+|
+|https://www.youtube.com/playlist?list=PL8RzQcu8B4N-i62OQVZ8dVLi2HK4YTFkZ
+
+|2020
+|https://ostrapila.pl/
+|"Ostrzymy programistów"
+|https://ostrapila.pl/feed/
+|
+
+|2020
+|https://patoarchitekci.io/
+|Lekki podcast o niby poważnym temacie jaki jest nowoczesna architektura w IT
+|https://anchor.fm/s/872010c/podcast/rss
+|
+
+|2020
+|https://porozmawiajmyoit.pl
+|Trendy, technologie, zjawiska i metodyki obecnie stosowane w IT
+|https://feeds.buzzsprout.com/103493.rss
+|
+
+|2020
+|https://stacja.it/#podcast
+|Rozmowy z prowadzącymi szkolenia i warsztaty
+|
+|https://www.youtube.com/channel/UCt0Gqn-JPojRF7anupcl67Q
+
+|2020
+|https://startupmyway.com/category/podcast/
+|SaaS, Startups, Tech, Future
+|https://startupmyway.com/category/podcast/feed/
+|https://www.youtube.com/channel/UCQmPOmiA_WZgYFXFKFX9y0w/videos
+
+|2020
+|https://stormit.pl/sprawny-programista/
+|"Podcast o programowaniu po polsku"
+|https://stormit.pl/sprawny-programista/feed/
+|
+
+|2020
+|https://www.retrospektywa.com/
+|"Podcast, w którym rozmawiamy o projektach"
+|https://retrospektywa.com/feed/podcast/
+|
+
+|2019
+|https://beyondthecode.pl/
+|Podcast dla programistów o wszystkim innym niż programowanie
+|https://beyondthecode.pl/feed/podcast/
+|
+
+|2019
+|https://skonfigurowani.pl/
+|https://anchor.fm/s/13f955ac/podcast/rss
+|https://skonfigurowani.pl/feed/podcast
+|
+
+|2019
+|https://spreadit.pl/spreadit-talks
+|Tematy poruszane w trakcie konferencji SpreadIT i nie tylko
+|https://spreadit.pl/feed/spreadit-talks.xml
+|
+
+|2019
+|https://just4fun.io
+|Tematy z zakresu różnorodnych technologii
+|https://just4fun.io/rss/
+|
+
+|2019
+|https://no-kill-switch.ghost.io/audio/
+|#lean #dotnet #webdev #elixir
+|https://anchor.fm/s/28d5d54/podcast/rss
+|
+
+|2019
+|https://podcast.pasja-informatyki.pl/
+|Podcastowa witryna kanału YouTube o nazwie Pasja informatyki
+|https://podcast.pasja-informatyki.pl/feed/podcast
+|https://www.youtube.com/user/MiroslawZelent/videos
+
+|2019
+|https://www.semihalf.com/
+|Poziom niżej. O budowie i zasadzie działania systemów wbudowanych
+|https://www.spreaker.com/show/3206799/episodes/feed
+|
+
+|2018
+|https://kodcast.pl/
+|
+|https://www.spreaker.com/show/2913269/episodes/feed
+|
+
+|2018
+|https://chwast.it/
+|"Najgorszy podcast programistyczny w Polsce."
+|https://chwast.it/feed.xml
+|
+
+|2018
+|https://dataevangelists.ai/category/podcast/
+|Data Science po polsku
+|http://feeds.soundcloud.com/users/soundcloud:users:293161367/sounds.rss
+|
+
+|2018
+|https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/
+|Tematyka .NET, zahaczająca też o bardziej uniwersalną wiedzę
+|https://zakasanerekawy.pl/feed.rss
+|
+
+|2018
+|https://uncoding.pl/
+|
+|https://uncoding.pl/feed/
+|
+
+|2017
+|https://foreverframe.net/category/devreview/
+|DevReview
+|
+|
+
+|2017
+|https://itkwadrans.pl/
+|
+|
+|
+
+|2016
+|https://polygamia.pl/tag/dwoch-i-ten-trzeci/
+|Rozmowy z przedstawicielami branży gier wideo
+|https://polygamia.pl/tag/dwoch-i-ten-trzeci/feed/
+|
+
+|===
