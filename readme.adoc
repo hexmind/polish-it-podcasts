@@ -6,6 +6,12 @@
 // miejsce na nowy wpis
 
 |2020
+|https://bettersoftwaredesign.pl
+|Rozmowy o projektowaniu oprogramowania, architekturze i wyzwaniach z tym związanych.
+|https://feeds.simplecast.com/KIo9ot3b
+|
+
+|2020
 |
 |Piątki Na Produkcji
 |
