@@ -1,4 +1,11 @@
-= polskie podcasty IT
+= polskie podkasty IT
+
+nie tylko dla programistów
+
+== zobacz też
+
+* https://github.com/cezarypiatek/polish-it-conferences[polskie konferencje IT]
+* https://github.com/nurkiewicz/polski-w-it[polski w IT]
 
 |===
 |ostatnia aktywność |strona internetowa |opis lub nazwa |Atom/RSS |YouTube
