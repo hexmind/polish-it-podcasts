@@ -13,6 +13,60 @@ nie tylko dla programistów
 // miejsce na nowy wpis
 
 |2020
+|https://bezpieczny.blog/bezpieczny-podcast/ 
+|o bezpieczeństwie i prywatności w sieci za pomocą prostego języka
+|http://anchor.fm/s/d227510/podcast/rss
+|
+
+|2020
+|https://chwiladlaadmina.pl
+|od Administratora IT dla Administratorów
+|http://www.spreaker.com/show/4159027/episodes/feed
+|
+
+|2020
+|https://codeboy.pl/dwpodcast/
+|Developer-Wannabe Podcast
+|http://feeds.feedburner.com/Developer-Wannabe-Podcast
+|
+
+|2020
+|http://devsession.podbean.com/
+|Od programisty dla programistów
+|http://feed.podbean.com/devsession/feed.xml
+|
+
+|2020
+|https://dostarczajwartosc.pl/
+|o szeroko pojętej inżynierii systemów
+|http://feeds.buzzsprout.com/222677.rss
+|
+
+|2020
+|http://kanbanprzykawie.pl/
+|wszystko co związane z Kanbanem
+|http://feeds.soundcloud.com/users/soundcloud:users:667252508/sounds.rss
+|
+
+|2020
+|http://security.szurek.pl/
+|Przegląd zagadnień security
+|http://anchor.fm/s/53a893c/podcast/rss
+|
+
+|2020
+|http://www.cybsecurity.org/
+|wydarzenia ze świata bezpieczeństwa teleinformatycznego
+|http://www.cybsecurity.org/feed/podcast/
+|
+
+|2020
+|https://www.oronowicz-jaśkowiak.pl/podcast
+|AI po godzinach
+|http://feeds.soundcloud.com/users/soundcloud:users:687658559/sounds.rss
+|
+
+|2020
 |https://bettersoftwaredesign.pl
 |Rozmowy o projektowaniu oprogramowania, architekturze i wyzwaniach z tym związanych.
 |https://feeds.simplecast.com/KIo9ot3b
