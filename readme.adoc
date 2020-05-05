@@ -31,7 +31,7 @@ nie tylko dla programistów
 |
 
 |2020
-|http://devsession.podbean.com/
+|https://devsession.pl/podcast/
 |Od programisty dla programistów
 |http://feed.podbean.com/devsession/feed.xml
 |
