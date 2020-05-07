@@ -13,6 +13,12 @@ nie tylko dla programistów
 // miejsce na nowy wpis
 
 |2020
+|https://sfi.pl/podcasty
+|Studencki Festiwal Informatyczny
+|https://feeds.soundcloud.com/users/soundcloud:users:797662012/sounds.rss
+|https://www.youtube.com/playlist?list=PLlFTnseZXaQXvWTjGwDoqCzZWlO9HQ0-z
+
+|2020
 |https://bezpieczny.blog/bezpieczny-podcast 
 |o bezpieczeństwie i prywatności w sieci za pomocą prostego języka
 |http://anchor.fm/s/d227510/podcast/rss
