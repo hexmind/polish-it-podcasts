@@ -13,6 +13,12 @@ nie tylko dla programistów
 // miejsce na nowy wpis
 
 |2020
+|https://anchor.fm/segfault-audio
+|segfault audio
+|https://anchor.fm/s/184c0cd0/podcast/rss
+|
+
+|2020
 |https://sfi.pl/podcasty
 |Studencki Festiwal Informatyczny
 |https://feeds.soundcloud.com/users/soundcloud:users:797662012/sounds.rss
