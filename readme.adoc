@@ -13,6 +13,12 @@ nie tylko dla programistów
 // miejsce na nowy wpis
 
 |2020
+|http://bydgoszcz.jug.pl
+|seria podcastów, która dotyczy bydgoskiego sektora IT
+|https://castbox.fm/channel/bITcast-id3089666
+|
+
+|2020
 |https://anchor.fm/segfault-audio
 |segfault audio
 |https://anchor.fm/s/184c0cd0/podcast/rss
