@@ -13,6 +13,12 @@ nie tylko dla programistów
 // miejsce na nowy wpis
 
 |2020
+|https://mrdev.pl/after-conf
+|Podcast na temat polskich konferencji IT i wystąpień publicznych
+|https://anchor.fm/s/3b97cf8/podcast/rss
+|https://www.youtube.com/watch?v=q_dB0OIg-z8&list=PLfQV-LT-sb2GlR2f9332wyVK6VvuDnfvO
+
+|2020
 |http://bydgoszcz.jug.pl
 |seria podcastów, która dotyczy bydgoskiego sektora IT
 |https://castbox.fm/channel/bITcast-id3089666
