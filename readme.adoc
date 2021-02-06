@@ -19,6 +19,12 @@ nie tylko dla programistów
 |https://www.youtube.com/watch?v=q_dB0OIg-z8&list=PLfQV-LT-sb2GlR2f9332wyVK6VvuDnfvO
 
 |2020
+|https://mrugalski.pl/podcast.html
+|Przewodnik w Nieznane - o produktywności, linuxie, pentestach
+|https://anchor.fm/unknow
+|https://www.youtube.com/c/uwteamorg
+
+|2020
 |http://bydgoszcz.jug.pl
 |seria podcastów, która dotyczy bydgoskiego sektora IT
 |https://castbox.fm/channel/bITcast-id3089666
