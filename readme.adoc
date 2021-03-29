@@ -18,11 +18,23 @@ nie tylko dla programistów
 |https://anchor.fm/s/3b97cf8/podcast/rss
 |https://www.youtube.com/watch?v=q_dB0OIg-z8&list=PLfQV-LT-sb2GlR2f9332wyVK6VvuDnfvO
 
-|2020
+|2021
 |https://mrugalski.pl/podcast.html
 |Przewodnik w Nieznane - o produktywności, linuxie, pentestach
 |https://anchor.fm/unknow
 |https://www.youtube.com/c/uwteamorg
+
+|2021
+|https://devsession.pl/podcast
+|od programisty dla programistów
+|http://feed.podbean.com/devsession/feed.xml
+|
+
+|2021
+|https://sfi.pl/podcasty
+|Studencki Festiwal Informatyczny
+|https://feeds.soundcloud.com/users/soundcloud:users:797662012/sounds.rss
+|https://www.youtube.com/playlist?list=PLlFTnseZXaQXvWTjGwDoqCzZWlO9HQ0-z
 
 |2020
 |http://bydgoszcz.jug.pl
@@ -35,12 +47,6 @@ nie tylko dla programistów
 |segfault audio
 |https://anchor.fm/s/184c0cd0/podcast/rss
 |
-
-|2020
-|https://sfi.pl/podcasty
-|Studencki Festiwal Informatyczny
-|https://feeds.soundcloud.com/users/soundcloud:users:797662012/sounds.rss
-|https://www.youtube.com/playlist?list=PLlFTnseZXaQXvWTjGwDoqCzZWlO9HQ0-z
 
 |2020
 |https://bezpieczny.blog/bezpieczny-podcast 
@@ -58,12 +64,6 @@ nie tylko dla programistów
 |https://codeboy.pl/dwpodcast
 |Developer-Wannabe Podcast
 |http://feeds.feedburner.com/Developer-Wannabe-Podcast
-|
-
-|2020
-|https://devsession.pl/podcast
-|od programisty dla programistów
-|http://feed.podbean.com/devsession/feed.xml
 |
 
 |2020
@@ -215,6 +215,12 @@ nie tylko dla programistów
 |o budowie i zasadzie działania systemów wbudowanych
 |https://www.spreaker.com/show/3206799/episodes/feed
 |
+
+|2019
+|
+|Gamedev Starter Pack - dla programistów, artystów z branży game dev
+|
+|https://open.spotify.com/show/15dmjSGLN3pvHnvxMlD4EL?si=pCyfvUPhRyWHzGZUeGB4mA
 
 |2018
 |https://kodcast.pl
